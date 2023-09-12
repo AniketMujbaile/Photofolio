@@ -2,7 +2,7 @@
 [PhotoFolio](https://shreyas-ingale.github.io/Photofolio/) is an online photo album react app that allows users to upload, organize, and share their digital photos.
 
 <p align="justify">
-   <img src="https://github.com/AniketMujbaile/I-Pod/blob/main/src/Image/Img.png">
+   <img src="https://github.com/AniketMujbaile/Photofolio/blob/main/Images/Image1.png">
 </p>
 
 ##  Getting Started 
